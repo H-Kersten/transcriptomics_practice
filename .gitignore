@@ -1,0 +1,9 @@
+data/
+renv/library
+renv/staging
+.Rhistory
+.RData
+.Rproj.user
+*_cache/
+*_files/
+scripts_outdated/
